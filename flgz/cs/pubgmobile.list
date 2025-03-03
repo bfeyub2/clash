@@ -1,7 +1,7 @@
 # PUBG Mobile 相关域名分流规则
 DOMAIN-SUFFIX,gpubgm.com
 DOMAIN-SUFFIX,pubgmobile.com
-DOMAIN-SUFFIX,facebook.com
+
 
 # 具体域名
 DOMAIN,napubgm.broker.amsoveasea.com
